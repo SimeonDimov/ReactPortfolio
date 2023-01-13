@@ -140,13 +140,14 @@ export default function Home() {
 
           <div className="text-center  shadow-lg p-10 rounded-xl my-10  dark:bg-white flex-1 basis-1/3">
             <Image className="mx-auto" src={camera} width={100} height={100} />
-            <h3 className="text-lg font-medium pt-8 pb-2">Photography</h3>
-            <p className="py-2">I am doing potrait and product photography.</p>
+            <h3 className="text-lg font-medium pt-8 pb-2">Photography & Video</h3>
+            <p className="py-2">I am doing potrait and product photography. I am shooting videos for customers as well, as well as advertisement content for social media.</p>
             <h4 className="py-4 text-teal-600">Gear I use</h4>
-            <p className="text-gray-800 py-1">Nikon D3500</p>
-            <p className="text-gray-800 py-1">Nikkor 35mm f1.8 AF-S</p>
-            <p className="text-gray-800 py-1">Nikkor 18-55 Kit lens</p>
-            <p className="text-gray-800 py-1">Photoshop/Lightroom</p>
+            <p className="text-gray-800 py-1">Panasonic Lumix S5</p>
+            <p className="text-gray-800 py-1">Sigma DG DN 35mm f/1.4</p>
+            <p className="text-gray-800 py-1">DJI RONIN RS2 Pro</p>
+            <p className="text-gray-800 py-1">BOYA BY-WM4PRO K2 WIRELESS MICROPHONE SYSTEM</p>
+            <p className="text-gray-800 py-1">Photoshop/Lightroom/Premiere Pro</p>
           </div>
         </section>
         <section>
