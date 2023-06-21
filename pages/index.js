@@ -55,9 +55,10 @@ export default function Home() {
               Web developer and UX/UI designer
             </h3>
             <p className="text-xl py-5 leading-8 dark:text-white ">
-              I am a second year ICT & Media Design student at Fontys, I am
+              I am a ICT & Media Design student at Fontys, I am
               working on web products from A to B, from the design and research,
-              to the programming and testing.
+              to the programming and testing. I specialize in Smart Mobile, Web development and UX Design.
+
             </p>
           </div>
           <h4 className="text-xl py-1 text-center flex-auto dark:text-white ">
